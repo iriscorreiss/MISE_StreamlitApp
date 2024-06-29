@@ -24,10 +24,12 @@ To install and run this project, follow these steps:
 2. **Install the required dependencies:**
     ```bash
     pip install -r requirements.txt
+    ```
 
 3. **Run the Streamlit app**
     ```bash
     streamlit run app.py
+    ```
 
 ## Usage
 After running the app, you can interact with the interface to explore the features of Sirí. The application displays various statistics and data from the thesis research, including:
