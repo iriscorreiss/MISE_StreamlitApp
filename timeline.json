@@ -1,0 +1,204 @@
+
+{
+    "title": {
+      "media": {
+        "url": "https://i.ibb.co/gwKB2nJ/capa.jpg"
+      },
+        "text": {
+          "headline": "Timeline<br>do projeto",
+          "text": "<p>Linha do tempo que descreve visualmente todo o caminho percorrido no desenvolvimento do projeto que inclui marcos importantes nas diferentes etapas.</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://i.ibb.co/qk0RGky/dsr.jpg"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"5"
+        },
+        "end_date": {
+          "year": "2022",
+          "month":"7"
+        },
+        "text": {
+          "headline": "Desenho da estratégia <br> e definição da metodologia <br> de investigação"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.ibb.co/26YJcxy/apr.jpg"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"5"
+        },
+          "end_date": {
+          "year": "2022",
+          "month":"6"
+        },
+        "text": {
+          "headline": "Definição do objeto e problema de investigação",
+          "text": ""
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.ibb.co/tXJw0sf/download.png"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"6"
+        },
+        "end_date": {
+          "year": "2022",
+          "month":"7"
+        },
+        "text": {
+          "headline": "DEFINIÇÃO DE REQUISITOS"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.ibb.co/dDssGXv/objetivos.jpg"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"11"
+        },
+        "end_date":{
+          "year":"2023",
+          "month":"1"
+        },
+        "text": {
+          "headline": "Resposta à Questão de Investigação"}
+      },
+      
+      {
+        "media": {
+          "url": "https://i.ibb.co/tHTQsgX/Captura-de-ecr-2024-06-27-040217.jpg"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"10"
+        },
+        "end_date": {
+          "year": "2024",
+          "month":"1"
+        },
+        "text": {
+          "headline": "Desenvolvimento do <br>Artefato"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.ibb.co/JrkN9y5/prototipo.jpg"
+        },
+        "start_date": {
+          "year": "2023",
+          "month":"12"
+        },
+        "end_date": {
+          "year": "2024",
+          "month":"3"
+        },
+        "text": {
+          "headline": "Avaliação do Artefato",
+          "text": "Started with a demo on https://www.innerdoc.com/nlp-timeline/ . <br>Then made a <a href='https://github.com/innerdoc/streamlit-timeline'>Streamlit component</a> of it. <br>Then made a <a href='https://pypi.org/project/streamlit-timeline/'>PyPi package</a> for it."
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.ibb.co/2NS818W/pixlr-image-generator-564caa13-079a-4c6a-8f2e-f2ae9fec9c4a.png"
+        },
+        "start_date": {
+          "year": "2023",
+          "month":"11"
+        },
+        
+        "end_date": {
+          "year": "2024",
+          "month":"3"
+        },
+        "text": {
+          "headline": "Análise de Resultados"}
+      },
+      {
+        "media": {
+          "url": "https://i.ibb.co/QYpz3dY/pixlr-image-generator-03bf95a8-0855-42a0-afc1-466ec6ce1cdd.png"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"11"
+        },
+        "end_date": {
+          "year": "2023",
+          "month":"1"
+        },
+        "text": {
+          "headline": "Redefinição de Requisitos"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.ibb.co/CbD7F1W/kl.jpg"
+        },
+        "start_date": {
+          "year": "2024",
+          "month":"1"
+        },
+        "text": {
+          "headline": "Resposta à Questão de Investigação"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.ibb.co/26cnpP7/cap5.jpg"
+        },
+        "start_date": {
+          "year": "2024",
+          "month":"3"
+        },
+        "end_date": {
+          "year": "2024",
+          "month":"5"
+        },
+        "text": {
+          "headline": "Apresentação de Resultados"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.ibb.co/0QXwn5T/omo.jpg"
+        },
+        "start_date": {
+          "year": "2024",
+          "month":"3"
+        },
+        "end_date": {
+          "year": "2024",
+          "month":"6"
+        },
+        "text": {
+          "headline": "Considerações Finais"}
+      },
+      {
+        "media": {
+          "url": "https://i.ibb.co/tcw75qV/ESTADODEa-RTE.jpg"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"10"
+        },
+        "end_date": {
+          "year": "2024",
+          "month":"1"
+        },
+        "text": {
+          "headline": "Revisão de Literatura",
+          "text": "Started with a demo on https://www.innerdoc.com/nlp-timeline/ . <br>Then made a <a href='https://github.com/innerdoc/streamlit-timeline'>Streamlit component</a> of it. <br>Then made a <a href='https://pypi.org/project/streamlit-timeline/'>PyPi package</a> for it."
+        }
+      }
+    ]
+}
